@@ -86,3 +86,13 @@ Commit your changes (git commit -m "Add awesome feature")
 Push to your branch (git push origin feature/YourFeature)
 Open a Pull Request, detailing your changes
 
+---
+```
+##  Output
+
+
+https://github.com/user-attachments/assets/0d2ddb3f-0674-4b6c-ad43-d0b859d65d5a
+
+
+
+
